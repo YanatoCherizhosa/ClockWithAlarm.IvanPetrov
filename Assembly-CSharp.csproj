@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7C226A63-F867-9D90-D28B-A61F442A6CE8}</ProjectGuid>
+    <ProjectGuid>{0235D862-084C-EB71-195A-EDA0A036666F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,10 +57,10 @@
     <Compile Include="Assets\Scripts\RotationToMouse.cs" />
     <Compile Include="Assets\Scripts\TimeController.cs" />
     <Compile Include="Assets\Scripts\CreateAnAlarm.cs" />
+    <Compile Include="Assets\Scripts\ObjectScaler.cs" />
     <Compile Include="Assets\Scripts\TimeConvertions.cs" />
     <Compile Include="Assets\Scripts\ReadNetTime.cs" />
     <Compile Include="Assets\Scripts\StopOrDeleteAlarm.cs" />
-    <Compile Include="Assets\Scripts\ObjectScaler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
